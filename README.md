@@ -58,7 +58,7 @@ validate-windows3.yml = Capture the validation and output of the firewall check
 ***Copy the windows_output.csv on the current folder.***
 
 # Using Ansible-Tower
-Please get the copy from the Team-Lead the Documentation for Ansible-Tower in Word format.
+You should upload here the linux.csv/windows.csv and make sure the job-template update the repo before it run so that it got updated input.  The output you should get it from Tower folder or add feature to email it to you.
 
 # Example Input
 See the linux.csv or windows.csv.
