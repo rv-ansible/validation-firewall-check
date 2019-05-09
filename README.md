@@ -1,13 +1,13 @@
-# TSO-Validation for Linux and Windows
+# Validation for Linux and Windows
 
 ***Clone this repository***
 
 ```
-git clone https://github.com/venerari/tso-validation-firewall-check.git
+git clone https://github.com/venerari/validation-firewall-check.git
 cd tso-validation-firewall-check
 
 # Or if you already have the repository.
-cd tso-validation-firewall-check
+cd validation-firewall-check
 # To update to the latest changes.
 git fetch origin master
 git reset --hard origin/master
