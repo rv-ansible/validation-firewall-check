@@ -3,7 +3,7 @@
 ***Clone this repository***
 
 ```
-git clone https://github.com/venerari/validation-firewall-check.git
+git clone https://github.com/rv-ansible/validation-firewall-check.git
 cd tso-validation-firewall-check
 
 # Or if you already have the repository.
